@@ -5,4 +5,4 @@ I used just a few technologies to keep it simple such as UIKit and AVFoundation 
 
 Live Video: https://www.youtube.com/watch?v=aVSkcdBZG14
 
-About me: Caruso Denny, 19, Student at Apple Developer Academy, Italy
+About me: Caruso Denny, 1999, Student at Apple Developer Academy, Italy
